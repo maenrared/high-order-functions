@@ -16,7 +16,7 @@ console.log(fullName("Maureen", "Nyambura"));
 function addNumbers(a, b) {
     return a + b;
 }
-console.log(addNumbers(5, 10));
+console.log(addNumbers(10,10));
 
 // Higher Order Functions Assignment
 const countries = [
