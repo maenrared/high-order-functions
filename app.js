@@ -2,7 +2,7 @@
 
 // 1. Function to print full name
 function fullName() {
-    console.log("John Doe");
+    console.log("Maureen Nyambura");
 }
 fullName();
 
@@ -10,7 +10,7 @@ fullName();
 function fullName(firstName, lastName) {
     return `${firstName} ${lastName}`;
 }
-console.log(fullName("John", "Doe"));
+console.log(fullName("Maureen", "Nyambura"));
 
 // 3. Function to add two numbers
 function addNumbers(a, b) {
@@ -62,7 +62,7 @@ console.log(findCountriesByPattern('land'));
 // Object Assignment
 const dog = {};
 console.log(dog);
-dog.name = "Buddy";
+dog.name = "Puff Puff";
 dog.legs = 4;
 dog.color = "Brown";
 dog.age = 3;
